@@ -1,4 +1,8 @@
 .highscores {
-    appearance: none;
+    sttyle: none;
     color: blueviolet;
+}
+header {
+    display: flex;
+    justify-content: space-between;
 }
